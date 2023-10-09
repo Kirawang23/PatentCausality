@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+ChromaPalette/ColorBars.csv
+ChromaPalette/__init__.py
+ChromaPalette/chroma_palette.py
+ChromaPalette.egg-info/PKG-INFO
+ChromaPalette.egg-info/SOURCES.txt
+ChromaPalette.egg-info/dependency_links.txt
+ChromaPalette.egg-info/requires.txt
+ChromaPalette.egg-info/top_level.txt
