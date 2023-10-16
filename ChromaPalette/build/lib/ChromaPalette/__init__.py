@@ -1,1 +1,0 @@
-from ChromaPalette import chroma_palette
