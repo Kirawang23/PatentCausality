@@ -47,3 +47,12 @@ This will output a basic patent classification HTML file and a cross-adaptation 
 
 If you use the codes, tools, or datasets from this repository, please kindly cite our paper.
 
+```
+@article{WANG2023102238,
+	author = {Meiyun Wang and Hiroki Sakaji and Hiroaki Higashitani and Mitsuhiro Iwadare and Kiyoshi Izumi},
+	journal = {World Patent Information},
+	pages = {102238},
+	title = {Discovering new applications: Cross-domain exploration of patent documents using causal extraction and similarity analysis},
+	volume = {75},
+	year = {2023}}
+```
